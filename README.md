@@ -13,8 +13,8 @@
 </h1>
 
 <p align="center">  
-  <img src="https://raw.githubusercontent.com/ArchieAdams/github-stats/master/generated/overview.svg#gh-dark-mode-only" />
-  <img src="https://raw.githubusercontent.com/ArchieAdams/github-stats/master/generated/languages.svg#gh-dark-mode-only" />
+  <img src="https://github.com/ArchieAdams/github-stats/blob/master/generated/overview.svg?raw=true" />
+  <img src="https://github.com/ArchieAdams/github-stats/blob/master/generated/languages.svg?raw=true" />
 </p>
 
 <p align="center"> 
