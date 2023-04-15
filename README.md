@@ -1,16 +1,27 @@
-### Hi there 👋
+<h1 align="center">
+  Archie Adams
+</h1>
 
-<!--
-**ArchieAdams/ArchieAdams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <p align="center">
+    I am a student york university currently working on various projects shown below.
+  </p>
+</div>
 
-Here are some ideas to get you started:
+<br>
+<p align="center">
+  I am a Java developer working on various projects, the most prominent of which can be found in the pins below.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 align="center">
+  Stats
+</h1>
+
+<p align="center">  
+  <img src="https://github.com/ArchieAdams/GitHubStats/blob/master/generated/overview.svg?raw=true" />
+  <img src="https://github.com/ArchieAdams/GitHubStats/blob/master/generated/languages.svg?raw=true" />
+</p>
+
+<p align="center"> 
+  <em>Statistics generated daily by <a href="https://github.com/jstrieb/github-stats">GitHub Stats</a>.</em>
+</p>
