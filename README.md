@@ -2,24 +2,19 @@
   Archie Adams
 </h1>
 
-<div align="center">
-  <p align="center">
-    I am a student york university currently working on various projects shown below.
-  </p>
-</div>
-
-<br>
 <p align="center">
-  I am a Java developer working on various projects, the most prominent of which can be found in the pins below.
+  I am a student at the University York, currently working on various projects shown below.
 </p>
+
+
 
 <h1 align="center">
   Stats
 </h1>
 
 <p align="center">  
-  <img src="https://github.com/ArchieAdams/GitHubStats/blob/master/generated/overview.svg?raw=true" />
-  <img src="https://github.com/ArchieAdams/GitHubStats/blob/master/generated/languages.svg?raw=true" />
+  <img src="https://raw.githubusercontent.com/ArchieAdams/github-stats/master/generated/overview.svg#gh-dark-mode-only" />
+  <img src="https://raw.githubusercontent.com/ArchieAdams/github-stats/master/generated/languages.svg#gh-dark-mode-only" />
 </p>
 
 <p align="center"> 
